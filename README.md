@@ -1,6 +1,29 @@
 # Python Web 程式設計入門實戰（Python101）
 由淺入深系統性學習原生 Python 和程式設計的重要觀念。去蕪存菁，完整介紹 Python 優良且重要的部份，並透過 Web 開發啟發學員興趣。讓學員可以系統性學習，打好程式設計基礎（課程內容將以 Python3 為主）。
 
+# 範例使用說明
+## 創建虛擬環境
+```
+conda create -n venv python=3.5
+```
+
+## 進入虛擬環境
+```
+source activate venv
+```
+
+## 安裝套件
+```
+pip install 套件名稱
+```
+
+## 啟動伺服器
+請透過指令移動到專案資料夾下，啟動本地端伺服器後就可以在瀏覽器 localhost:7777 看到網頁
+```
+cd 專案資料夾名稱
+python -m http.server 7777
+```
+
 # 課程大綱（Syllabus）
 1. 單元1 - Python 程式設計初體驗（寶可夢 Pokemon 對戰遊戲範例）
 
