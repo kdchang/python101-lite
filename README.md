@@ -37,7 +37,7 @@ python -m http.server 7777
 
 6. 單元6 - Python 套件管理基礎
 
-7. 單元7 - HTML/CSS/JavaScript 簡易基礎（ajax）
+7. 單元7 - HTML/CSS/JavaScript 簡易基礎（ajax 愛寵物）
 
 8. 單元8 - 實戰範例：網頁版 Youtube 影片下載工具（使用 Flask Web 框架）
 
@@ -78,7 +78,7 @@ python -m http.server 7777
 # 環境建置（Enviroment）
 1. Anaconda
 2. Jupyter
-3. Sublime Text 
+3. [Sublime Text](https://www.sublimetext.com/) / [VS Code](https://code.visualstudio.com/)
 4. Ipython
 5. [repl.it](https://repl.it)
 
